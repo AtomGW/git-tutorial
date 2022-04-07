@@ -1,0 +1,1 @@
+http://sub1.galbense.xyz/sub?target=clash&udp=true&filename=maoxiong&interval=86400&append_info&url=http://galben.xyz/link/0wv1auSUDarddOHM?clash=1&extend=1
